@@ -5,9 +5,9 @@ application up and running.
 
 Things you may want to cover:
 
-* Ruby version
+* Ruby version 3.2
 
-* System dependencies
+* System dependencies 
 
 * Configuration
 
@@ -23,3 +23,4 @@ Things you may want to cover:
 
 * ...
 # r7_learn_hotwire
+# This is code from https://www.hotrails.dev/turbo-rails
